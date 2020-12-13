@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Data-MVVM-Kotlin</string>
+    <string name="space">\u0020</string>
+    <string name="spacedot">.\u0020</string>
+</resources>
